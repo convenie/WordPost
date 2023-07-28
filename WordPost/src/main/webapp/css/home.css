@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+	background-image:url("../img/start.png");
+  background-size: cover;
+}
+.accr{
+	text-align:center;
+	
+}
+.accr a{
+	text-decoration: none;
+	color:black;
+	text-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+h1{
+	text-align:center;
+}
+.login{
+	text-align:right;
+}
+.login a{
+	 text-decoration: none;
+	 color:blue;
+}
